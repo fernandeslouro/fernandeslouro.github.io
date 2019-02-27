@@ -2,7 +2,7 @@
 name="Joao Louro"
 webdir="$(pwd)"
 website="https://louro.xyz/" # Keep a trailing slash.
-css="../style.css"
+css="../blog-style.css"
 blogfile="blog-row.html"
 indexfile="blog.html"
 rssfile="rss.xml"
