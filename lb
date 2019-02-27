@@ -3,8 +3,8 @@ name="Joao Louro"
 webdir="$(pwd)"
 website="https://louro.xyz/" # Keep a trailing slash.
 css="../style.css"
-blogfile="2019.html"
-indexfile="blogindex.html"
+blogfile="blog-row.html"
+indexfile="blog.html"
 rssfile="rss.xml"
 [ -z "$EDITOR" ] && EDITOR="vim"
 
